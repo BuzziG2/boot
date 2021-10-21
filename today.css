@@ -1,0 +1,32 @@
+body{
+    background-color: hsl(0, 0%, 15%);
+}
+
+.abc p{
+    color:#ffffff;
+    float: right;
+    margin:0 0 18px 0;
+}
+
+.adc{
+    background-color: rgb(65, 65, 65);
+    
+}
+
+.x{
+    width: 80%;
+   
+}
+
+.y{
+    text-align: center;
+    width: 100%;
+    background-color: rgb(124, 124, 124);
+    margin:0 0 18px 0;
+}
+
+.z{
+    width: 100%;
+    text-align: center;
+    margin:0 0 18px 0;
+}
